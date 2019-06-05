@@ -1,1 +1,2 @@
 from .event2mind import Event2Mind
+from .transformer_seq2vec_encoder import TransformerSeq2VecEncoder
